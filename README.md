@@ -25,7 +25,7 @@
 
 ```bash
 pip install colorama pandas openpyxl
-
+```
 ### نکته: pandas و openpyxl فقط برای تولید خروجی Excel نیاز هستند. در صورت نبود، برنامه بدون مشکل کار می‌کند (اما فایل Excel ساخته نمی‌شود).
 
 
